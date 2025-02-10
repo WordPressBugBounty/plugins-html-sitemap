@@ -3,18 +3,18 @@
 Plugin Name: HTML Page Sitemap
 Plugin URI: http://www.pluginspodcast.com/plugins/html-page-sitemap/
 Description: <a href="https://wordpress.org/plugins/html-sitemap/" target="_blank">HTML Page Sitemap</a> Adds an HTML (Not XML) sitemap of your blog pages (not posts) by entering the shortcode [html_sitemap]. A plugin from <a href="http://angelo.mandato.com/" target="_blank">Angelo Mandato</a>.
-Version: 1.3.4
-Contributors: Angelo Mandato, Founder and CTO of Painless Analytics
+Version: 1.3.6
+Contributors: Angelo Mandato, Founder and CTO of [Painless Analytics](https://www.painlessanalytics.com)
 Author URI: http://angelo.mandato.com/
 
 Requires at least: 3.7
-Tested up to: 6.6
+Tested up to: 6.7.1
 Text Domain: html-sitemap
 Change Log: See readme.txt for complete change log
 Contributors: Angelo Mandato, Founder and CTO of Painless Analytics
 License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
 
-Copyright 2009-2024 Angelo Mandato, (http://angelo.mandato.com)
+Copyright 2009-2025 Angelo Mandato, (http://angelo.mandato.com)
 */
 
 
